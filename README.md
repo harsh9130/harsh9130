@@ -1,16 +1,44 @@
-## Hi there 👋
+I'm currently pursuing a Master of Computer Applications (MCA) and building practical skills in Cloud Computing, AWS, Linux and DevOps.
 
-<!--
-**harsh9130/harsh9130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy learning by building practical projects and exploring cloud infrastructure, application deployment, automation and version control.
 
-Here are some ideas to get you started:
+#Cloud & DevOps
+- AWS
+- Cloud Computing
+- Linux
+- Git & GitHub
+- Shell Scripting
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Projects
+
+.Serverless Weather Application using AWS
+
+An academic cloud project developed to gain practical experience with AWS and serverless application development.
+
+**Focus:** AWS | Serverless | APIs | Cloud Computing
+
+### Linux Shell Script Backup
+
+A shell scripting project focused on automating backup-related tasks.
+
+*Focus:* Linux | Bash | Shell Scripting | Automation
+
+## 📚 Currently Learning
+
+- AWS Cloud Engineering
+- DevOps
+- Docker
+- CI/CD
+- Linux Administration
+- Cloud Monitoring
+
+# Career Goal
+
+I'm looking for entry-level opportunities in:
+- AWS Cloud Engineering
+- Cloud Support
+
+#Connect With Me
+- LinkedIn: https://www.linkedin.com/in/harsh-dwivedi-cloud/
+- GitHub: https://github.com/harsh9130
